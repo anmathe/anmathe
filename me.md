@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anmathe
+- 👀 I’m interested in web programming and data analysis
+- 🌱 I’m currently learning python for datascience and laravel for php...
+- 💞️ I’m looking to collaborate on data analysis projec's
+- 📫 How to reach me whatsapp +243995752162
